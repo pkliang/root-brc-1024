@@ -1,0 +1,57 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:thunder",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "Thunder"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Deep Blue",
+            "Purple"
+        ],
+        "Hairstyle": [
+            "Short",
+            "Blue Strands",
+            "Lightning Ponytail"
+        ],
+        "Skin Color": [
+            "Blue-Gray",
+            "Bronze"
+        ],
+        "Clothing": [
+            "Electro-Light Armor",
+            "Storm Robe",
+            "Charge Armor",
+            "Lightning Cloak"
+        ],
+        "Accessory": [
+            "Storm Belt",
+            "Thunder Pearl",
+            "Flash Scroll",
+            "Storm Bottle",
+            "Thunder Belt"
+        ],
+        "Weapon": [
+            "Thunder Sword",
+            "Electro-Light Bow",
+            "Electro-Light Hammer",
+            "Thunder Giant Sword",
+            "Electric Whip",
+            "Arc Knife",
+            "Thundering Axe"
+        ],
+        "Exoskeleton": [
+            "Lightning Wings"
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:dragonblood",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "DragonBlood"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Deep Purple",
+            "Deep Blue"
+        ],
+        "Hairstyle": [
+            "Dragon Horn Half Bun",
+            "Dragon Scale Wave",
+            "Dual Horn High Ponytail",
+            "Dragon Claw Spiky",
+            "Twin Dragon Bun"
+        ],
+        "Skin Color": [
+            "Dark Gold",
+            "Iron Grey"
+        ],
+        "Clothing": [
+            "Dragon Scale Armor",
+            "Dragonflame Robe",
+            "Dragonhide Armor",
+            "Dragonbone Armor"
+        ],
+        "Accessory": [
+            "Dragon Tooth Necklace",
+            "Dragon Scale Bracelet",
+            "Dragon Wing Cloak"
+        ],
+        "Weapon": [
+            "Earthquake Hammer",
+            "Dragon Tooth Sword",
+            "Dragon Scale Shield",
+            "Dragon Claw Knife",
+            "Dragonflame Staff",
+            "Dragon Soul Spear",
+            "Dragon Tail Whip",
+            "Dragonflame War Axe"
+        ],
+        "Exoskeleton": [
+            "Dragon Horns",
+            "Dragon Wings",
+            "Dragon Spine Spikes"
+        ]
+    }
+}

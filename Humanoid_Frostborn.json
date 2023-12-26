@@ -1,0 +1,66 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:frostborn",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "Frostborn"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Ice Blue",
+            "Light Purple"
+        ],
+        "Hairstyle": [
+            "Ice Crystal Curly",
+            "Long Straight",
+            "Snowflake Crown"
+        ],
+        "Skin Color": [
+            "Ice Blue",
+            "Snow White"
+        ],
+        "Clothing": [
+            "Snowflake Long Robe",
+            "Ice Crystal Armor",
+            "Frost Patterned Jacket",
+            "Glacial Cloak",
+            "Snow Kirin Armor",
+            "Snow Fox Fur Coat",
+            "Ice Saint Garment"
+        ],
+        "Accessory": [
+            "Ice Crystal Bracelet",
+            "Frost Flower Ring",
+            "Ice Earrings",
+            "Ice Crystal Helmet",
+            "Frosted Gloves",
+            "Ice Crystal Bracers",
+            "Frost Necklace"
+        ],
+        "Weapon": [
+            "Ice Crystal Sword",
+            "Snowy Wand",
+            "Ice Scale Shield",
+            "Snowflake Dart",
+            "Glacial Bow",
+            "Ice Spear",
+            "Hail Chain",
+            "Frost Hammer",
+            "Cold Soul Axe",
+            "Glacier Staff",
+            "Ice Spirit Sword"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}

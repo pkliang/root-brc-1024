@@ -1,0 +1,59 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:abyssian",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "Abyssian"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Sea Blue",
+            "Deep Green"
+        ],
+        "Hairstyle": [
+            "Wave Long",
+            "Fish Scale Short",
+            "Coral Crown"
+        ],
+        "Skin Color": [
+            "Light Green",
+            "Light Pink"
+        ],
+        "Clothing": [
+            "Seaweed Robe",
+            "Coral Armor",
+            "Pearl Dress",
+            "Shark Battle Armor"
+        ],
+        "Accessory": [
+            "Pearl Crown",
+            "Sea Shell Necklace",
+            "Coral Bracelet",
+            "Fish Scale Belt",
+            "Coral Necklace",
+            "Luminous Crown"
+        ],
+        "Weapon": [
+            "Trident",
+            "Tide Staff",
+            "Whale Soul Shield",
+            "Wave Knife",
+            "Coral Sword",
+            "Sea Dragon Whip",
+            "Pearl Light Dagger",
+            "Tide Sound Hammer"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}
