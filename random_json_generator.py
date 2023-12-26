@@ -11,23 +11,23 @@ def random_element_selection(element_options):
     return selected_elements
 
 
-def generate_json(first_json_path, output_json_path):
-    # Reading the first JSON file
-    with open(first_json_path, 'r') as file:
-        first_json_data = file.read()
+def generate_json(template_path, output_json_path):
+    # Reading the template JSON file
+    with open(template_path, 'r') as file:
+        template_json_data = file.read()
 
-    # Parsing the first JSON file
-    first_json = json.loads(first_json_data)
+    # Parsing the template JSON file
+    template_json = json.loads(template_json_data)
 
     # Extracting the arrays of possible values for each element
-    element_options = first_json["elements"]
+    element_options = template_json["elements"]
 
     # Generating a new JSON object similar to the second file
     new_json = {
-        "p": first_json["p"],
-        "metaverse": first_json["metaverse"],
+        "p": template_json["p"],
+        "metaverse": template_json["metaverse"],
         "op": "mint",  # Setting 'op' to 'mint'
-        "tick": first_json["tick"],
+        "tick": template_json["tick"],
         "elements": random_element_selection(element_options)
     }
 
