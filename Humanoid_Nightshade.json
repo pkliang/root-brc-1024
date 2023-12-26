@@ -1,0 +1,72 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:nightshade",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "Nightshade"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Fluorescent Purple",
+            "Fluorescent Deep Blue"
+        ],
+        "Hairstyle": [
+            "Straight",
+            "Messy Tousle",
+            "Shoulder-length"
+        ],
+        "Skin Color": [
+            "White",
+            "Grayish White",
+            "Light Green"
+        ],
+        "Clothing": [
+            "Night Cloak",
+            "Night Robe",
+            "Shadow Patterned Clothes",
+            "Moonlight Robe",
+            "Spectral Skirt",
+            "Nightwalker Jacket",
+            "Moon Shadow Cloak",
+            "Obsidian Armor",
+            "Shadow Studded Garb",
+            "Flowing Light Armor"
+        ],
+        "Accessory": [
+            "Night Crystal Necklace",
+            "Shadow Earrings",
+            "Night Shadow Cloak",
+            "Dark Gloves",
+            "Flowing Shadow Ring",
+            "Starry Veil"
+        ],
+        "Weapon": [
+            "Shadow Blade",
+            "Moonlight Bow",
+            "Starry Night Staff",
+            "Night Dagger",
+            "Moonlight Scythe",
+            "Night Dart",
+            "Ghost Chain",
+            "Night Cry Blade",
+            "Black Spear",
+            "Shadow Claw Blade",
+            "Dark Night Shield",
+            "Phantom Scythe",
+            "Shadow Double Blade"
+        ],
+        "Exoskeleton": [
+            "Eclipsion Wings",
+            "Lumina Wings"
+        ]
+    }
+}

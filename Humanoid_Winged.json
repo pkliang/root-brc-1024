@@ -1,0 +1,71 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:winged",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "Winged"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Moon Silver",
+            "Sky Blue"
+        ],
+        "Hairstyle": [
+            "Braided Feather Crown",
+            "Feather Flowing Long",
+            "Bun"
+        ],
+        "Skin Color": [
+            "Cloud White"
+        ],
+        "Clothing": [
+            "Gauze Dress",
+            "Velvet Robe",
+            "Phoenix Feather Robe",
+            "Emerald Feather Dress",
+            "Feather Gauze Clothing",
+            "Eagle Cape",
+            "Sky Feather Garment",
+            "Eagle Wing War Robe",
+            "Feather Light Armor"
+        ],
+        "Accessory": [
+            "Feather Earrings",
+            "Gem Bracelet",
+            "Moonlight Necklace",
+            "Windrunner Headband",
+            "Feather Necklace",
+            "Feather Flight Hairpin"
+        ],
+        "Weapon": [
+            "Longbow",
+            "Dart",
+            "Curved Knife",
+            "Wind Arrow",
+            "Light Staff",
+            "Phoenix Feather Sword",
+            "Mist Staff",
+            "Wind Blade",
+            "Eagle Eye Bow",
+            "Feather Fan Blade",
+            "Wind Sword",
+            "Void Howl Gun",
+            "Storm Shield",
+            "Thunder Bow",
+            "Ethereal Throwing Knife"
+        ],
+        "Exoskeleton": [
+            "White Wings",
+            "Blue Wings"
+        ]
+    }
+}

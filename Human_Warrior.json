@@ -1,0 +1,73 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:warrior",
+    "max": 20000,
+    "elements": {
+        "Race": [
+            "Human"
+        ],
+        "Sub Race": [
+            "Warrior"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Black",
+            "Brown",
+            "Blonde"
+        ],
+        "Hairstyle": [
+            "Short",
+            "Long",
+            "Samurai Bun",
+            "Ponytail"
+        ],
+        "Skin Color": [
+            "White",
+            "Bronze"
+        ],
+        "Clothing": [
+            "Battle Armor",
+            "Chainmail",
+            "Samurai Robe",
+            "Leather Armor",
+            "Leopard Print Robe",
+            "Brocade Battle Dress",
+            "Tiger Skin Battle Dress",
+            "Phoenix Armor",
+            "Wolf Spirit Battle Dress",
+            "Python Scale Armor",
+            "Kirin Battle Armor",
+            "White Fox Fur Battle Dress"
+        ],
+        "Accessory": [
+            "Cloak",
+            "Helmet",
+            "Headband",
+            "Heavy Armor Helmet"
+        ],
+        "Weapon": [
+            "Tang Sword",
+            "Western Sword",
+            "Katana",
+            "Bow And Arrow",
+            "Crescent Blade",
+            "Spear",
+            "Battle Axe",
+            "Warhammer",
+            "Dual Blades",
+            "Whip",
+            "Hammer",
+            "Darts",
+            "Halberd",
+            "Ring"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}

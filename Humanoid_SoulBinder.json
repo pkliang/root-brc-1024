@@ -1,0 +1,55 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:soulbinder",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "SoulBinder"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Silver",
+            "Soul White"
+        ],
+        "Hairstyle": [
+            "Misty Cloud",
+            "Wave",
+            "Ethereal Long"
+        ],
+        "Skin Color": [
+            "Transparent",
+            "Pale White"
+        ],
+        "Clothing": [
+            "Void Robe",
+            "Ritual Garb",
+            "Netherstone Chainmail",
+            "Cloud Mist Robe",
+            "Spiritual Silk Garment"
+        ],
+        "Accessory": [
+            "Soul Stone Necklace",
+            "Soul Bracelet",
+            "Void Earrings",
+            "Spirit Bell"
+        ],
+        "Weapon": [
+            "Soul Staff",
+            "Void Chains",
+            "Soul Whip",
+            "Spirit Stone Staff",
+            "Illusion Flute"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}

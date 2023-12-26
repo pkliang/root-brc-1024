@@ -1,0 +1,77 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:cultivator",
+    "max": 20000,
+    "elements": {
+        "Race": [
+            "Human"
+        ],
+        "Sub Race": [
+            "Cultivator"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Brown",
+            "White",
+            "Blonde"
+        ],
+        "Hairstyle": [
+            "Long",
+            "Short",
+            "Braids",
+            "Bun"
+        ],
+        "Skin Color": [
+            "White",
+            "Yellow"
+        ],
+        "Clothing": [
+            "Taoist Robe",
+            "Monastic Habit",
+            "Zen Robe",
+            "Ritual Robe",
+            "Prayer Garb",
+            "Mystery Robe",
+            "Wisdom Robe",
+            "Lapis Lazuli Robe",
+            "Dawn Ceremony Robe",
+            "Starry Robe",
+            "Crane Taoist Robe"
+        ],
+        "Accessory": [
+            "Cloak",
+            "Hairpin",
+            "Prayer Beads",
+            "Pendant",
+            "Meditation Scroll",
+            "Miracle Lantern"
+        ],
+        "Weapon": [
+            "Mace",
+            "Kris",
+            "Daoist Sword",
+            "Dharma Wheel",
+            "Chain",
+            "Five Elements Sword",
+            "Yin Yang Shield",
+            "Primordial Cauldron",
+            "Void Furnace",
+            "Heaven Measuring Ruler",
+            "Star Pen",
+            "Heaven and Earth Ring",
+            "Primordial Flag",
+            "Void Mirror",
+            "Bagua Plate",
+            "Chaos Pearl",
+            "Heavenly Mechanism Chains"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}

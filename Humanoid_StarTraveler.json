@@ -1,0 +1,60 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:startraveler",
+    "max": 10000,
+    "elements": {
+        "Race": [
+            "Humanoid"
+        ],
+        "Sub Race": [
+            "StarTraveler"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Starry Blue",
+            "Starlight Silver",
+            "Comet Gold"
+        ],
+        "Hairstyle": [
+            "Short",
+            "Galaxy Wave",
+            "Meteor Tail",
+            "Star Cluster Curly"
+        ],
+        "Skin Color": [
+            "Starlight White",
+            "Moonlight Blue",
+            "Comet Orange"
+        ],
+        "Clothing": [
+            "Flowing Light Clothes",
+            "Milky Way Robe",
+            "Meteor Armor",
+            "Starlight Coat"
+        ],
+        "Accessory": [
+            "Starshine Shield",
+            "Meteor Pendant",
+            "Void Mirror",
+            "Star Voyage Cape",
+            "Stellar Spectacles",
+            "Black Hole Belt",
+            "Nebula Boots",
+            "Starlight Cloak"
+        ],
+        "Weapon": [
+            "Stardust Bow",
+            "Starlight Sword",
+            "Black Hole Shield",
+            "Star Core Axe"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}

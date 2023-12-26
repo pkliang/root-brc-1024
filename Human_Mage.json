@@ -1,0 +1,68 @@
+{
+    "p": "brc-1024",
+    "metaverse": "root",
+    "op": "deploy",
+    "tick": "charactor:mage",
+    "max": 20000,
+    "elements": {
+        "Race": [
+            "Human"
+        ],
+        "Sub Race": [
+            "Mage"
+        ],
+        "Gender": [
+            "Male",
+            "Female"
+        ],
+        "Hair Color": [
+            "Purple",
+            "Blue",
+            "Dawn Red"
+        ],
+        "Hairstyle": [
+            "Stardust Long",
+            "Short",
+            "Twin Braids",
+            "Magic Flame Bun"
+        ],
+        "Skin Color": [
+            "White",
+            "Yellow",
+            "Rose Pink"
+        ],
+        "Clothing": [
+            "Mystic Robe",
+            "Wizard Robe",
+            "Contemplation Garb",
+            "Abyssal Robe",
+            "Mage Sigil Garment",
+            "Illusionary Robe"
+        ],
+        "Accessory": [
+            "Cloak",
+            "Pendant Chain",
+            "Magic Ring",
+            "Elemental Headwrap",
+            "Meditation Crown",
+            "Magic Glasses"
+        ],
+        "Weapon": [
+            "Magic Staff",
+            "Magic Circle",
+            "Elemental Scepter",
+            "Spellbook",
+            "Crystal Ball",
+            "Storm Staff",
+            "Lightning Chain",
+            "Magic Shield",
+            "Flame Wand",
+            "Rune Scroll",
+            "Arcane Book",
+            "Summoning Magic Clock"
+        ],
+        "Exoskeleton": [
+            ""
+        ]
+    }
+}
